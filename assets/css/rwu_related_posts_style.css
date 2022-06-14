@@ -1,0 +1,23 @@
+
+.rwu-related-posts:after{
+	content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+    zoom: 1;
+    height: 0px;
+}
+.rwu-related-posts .related-post{margin-bottom:35px;}
+@media (min-width: 768px){
+.rwu-related-posts .related-post{width:33.3333%;padding:0 15px;float:left;}
+.rwu-related-posts .related-post:nth-child(3n+1){clear:both;}
+}
+.rwu-related-posts .related-post-title{word-wrap:break-word;-ms-word-wrap:break-word;}
+@media (min-width: 768px){
+.rwu-related-posts .related-posts-wrap{margin:0 -15px;}
+}
+
+
+
+
+

@@ -1,0 +1,50 @@
+.nav-tab-wrapper .nav-tab.active{
+    color:blue;
+}
+#rwu_options_form {
+    padding-top: 20px;
+}
+
+.wrap-tool{
+    padding: 20px;
+    background-color: rgb(226, 224, 216);
+        
+}
+<<<<<<< HEAD
+.rwu_form,.form-group{
+=======
+.rwu_form{
+>>>>>>> 0d4868b8a2b3ce0cc0743b6e76739d2b63e5f342
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.rwu_form .button{
+    margin-top: 10px;;
+}
+.rwu_delete_posts{
+    color: #f4f2f2;
+    border-color: #ea1327;
+    background: #f60a0a; 
+}
+.wrap textarea{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 100%;
+    min-height: 100px;
+    height: auto;
+}
+.wp-core-ui .notice.is-dismissible {
+    height: auto;
+    max-height: 200px;
+    overflow-y: scroll;
+}
+.options{
+    margin-bottom: 20px;
+}
+<<<<<<< HEAD
+.text-danger{
+    color:red;
+}
+=======
+>>>>>>> 0d4868b8a2b3ce0cc0743b6e76739d2b63e5f342
